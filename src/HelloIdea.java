@@ -23,7 +23,8 @@ public class HelloIdea {
         System.out.println("你好");
         System.out.println("dsdsds");
         //在idea当中添加的这一行信息
-
+        /**在eclipse当中看到上面idea添加的信息，这是从github上面pull下来的，现在准备Push上去
+        当然push上去之前 现在本地commit */
     }
 
 
