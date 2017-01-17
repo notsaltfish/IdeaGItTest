@@ -22,6 +22,7 @@ public class HelloIdea {
 
         System.out.println("你好");
         System.out.println("dsdsds");
+        //在idea当中添加的这一行信息
 
     }
 
