@@ -26,6 +26,7 @@ public class HelloIdea {
         /**在eclipse当中看到上面idea添加的信息，这是从github上面pull下来的，现在准备Push上去
         当然push上去之前 现在本地commit */
 		/** 下面的信息是从左面的GIT测试传到github上面去的* 2017-06-24 notepad++*/
+		//再次测试在git bash解决文件同名冲突
 		
 		
 		
